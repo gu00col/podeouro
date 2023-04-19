@@ -1,0 +1,10 @@
+.money-chat {
+    /* Defina as propriedades de estilo do ícone */
+    /* Defina as propriedades de estilo do ícone */
+  width: 26px;
+  height: 26px;
+  fill: none; /* Define a cor de preenchimento como "nenhuma" */
+  stroke: black; /* Define a cor do traço como preto */
+  stroke-width: 1.5; /* Define a largura do traço como 1.5 pixels */
+  stroke-linecap: round; /* Define o tipo de extremidade do traço como arredondado */
+  }

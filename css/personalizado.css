@@ -1,0 +1,111 @@
+/* Cores */
+
+/* SOLIDA 
+#FEC456
+#000000
+#1F1F1F
+*/
+
+
+/* Textos */
+
+.text-principal {
+    color: #FEC456 !important;
+}
+
+.especial-text {
+    /* degrade */
+    background: linear-gradient(117.37deg, #B1884C -13.42%, #785C44 -2.46%, #FFCD4B 43.76%, #FFCD4B 57.1%, #785D35 108.08%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    text-fill-color: transparent !important;
+}
+
+
+/* Botoes */
+
+.btn-especial {
+    background: linear-gradient(117.37deg, #B1884C -13.42%, #785C44 -2.46%, #FFCD4B 43.76%, #FFCD4B 57.1%, #785D35 108.08%) !important;
+    color: #000000 !important;
+    border: 1px solid #FEC456 !important;
+}
+
+.btn-especial:hover {
+    background: #ffffff !important;
+    border: 1px solid #FEC456 !important;
+}
+
+/* NAV */
+
+.navbar-nav .nav-item .nav-link {
+    color: #FEC456 !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ffffff !important;
+}
+
+/* Jumbrotron */
+
+/* Default height for small devices */
+#intro-example {
+    height: 400px;
+    padding-top: 500px !important;
+    background-image: url('/img/bg-min.jpg');
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+    #intro-example {
+        height: 800px;
+    }
+
+}
+
+
+/* Cotações */
+
+.bg-cotacoes {
+    background: #1F1F1F !important;
+}
+
+/* Sobre nos */
+.bg-sobre-nos {
+    background: #000000 !important;
+}
+
+
+
+
+/* Serviçõs */
+
+.bg-servicos {
+    background: #1F1F1F !important;
+}
+
+.card-servicos {
+    background: transparent !important;
+    border: 2px solid #FEC456 !important;
+}
+
+
+/* Contato */
+
+.bg-contato {
+    background: #000000 !important;
+}
+
+
+.link-icones>a {
+    color: #FEC456 !important;
+}
+.link-icones>a:hover {
+    color: #FFFFFF !important;
+}
+
+/* Footer */
+
+.bg-footer {
+    background: #1F1F1F !important;
+}

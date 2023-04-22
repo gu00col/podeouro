@@ -119,11 +119,17 @@
   background: #FEC456;
 }
 
+
+
 .nav-tabs .nav-link:hover {
   background-color: #000000 !important;
-  border: 1px solid #FEC456 !important;
+  border: transparent !important;
   color: #FEC456 !important ;
+  text-decoration: underline !important;
+  border-right: 1px solid #FEC456 !important;
 }
+
+
 
 
 

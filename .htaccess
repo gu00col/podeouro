@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteCond %{HTTPS} on
+RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://podeourotrading.com/$1 [R,L]
 </IfModule>
